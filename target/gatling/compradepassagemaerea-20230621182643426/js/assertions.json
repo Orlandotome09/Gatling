@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CompraDePassagemAerea",
+  "simulationId": "compradepassagemaerea-20230621182643426",
+  "start": 1687372005859,
+  "description": "",
+  "scenarios": ["Select Destiny"],
+  "assertions": [
+
+  ]
+}

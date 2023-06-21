@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/orlandotome/Projetos/Gatling/src/test/resources/gatling.conf,/home/orlandotome/Projetos/Gatling/target/scala-2.13/test-classes/gatling.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/orlandotome/Projetos/Gatling/src/test/resources/logback-test.xml,/home/orlandotome/Projetos/Gatling/target/scala-2.13/test-classes/logback-test.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/orlandotome/Projetos/Gatling/src/test/resources/recorder.conf,/home/orlandotome/Projetos/Gatling/target/scala-2.13/test-classes/recorder.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/orlandotome/Projetos/Gatling/src/test/resources/search.csv,/home/orlandotome/Projetos/Gatling/target/scala-2.13/test-classes/search.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/orlandotome/Projetos/Gatling/src/test/resources/bodies/postConfirmation.json,/home/orlandotome/Projetos/Gatling/target/scala-2.13/test-classes/bodies/postConfirmation.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/orlandotome/Projetos/Gatling/src/test/resources/bodies/postDestiny.json,/home/orlandotome/Projetos/Gatling/target/scala-2.13/test-classes/bodies/postDestiny.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/orlandotome/Projetos/Gatling/src/test/resources/bodies/postFlights.json,/home/orlandotome/Projetos/Gatling/target/scala-2.13/test-classes/bodies/postFlights.json)[0m

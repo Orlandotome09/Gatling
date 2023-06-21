@@ -1,0 +1,12 @@
+{
+  "inputName": "Teste",
+  "address": "Rua teste",
+  "city": "Teste city",
+  "state": "Teste State",
+  "zipCode": "14578444",
+  "cardType": "visa",
+  "creditCardNumber": 1234568799999,
+  "creditCardMonth": 11,
+  "creditCardYear": 2017,
+  "nameOnCard": "John test"
+}

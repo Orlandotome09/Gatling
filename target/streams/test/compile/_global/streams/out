@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/orlandotome/Projetos/gatling-sbt-plugin-demo/src/test/scala/computerdatabase/CompraDePassagemAerea.scala:40:11: not found: value postNewDestiny[0m
+[0m[[0m[31merror[0m] [0m[0m    .exec(postNewDestiny()[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
